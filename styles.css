@@ -62,6 +62,10 @@ del {
   text-decoration: line-through;
 }
 
+.pandemic {
+	color: DarkRed;
+}
+
 a {
   text-decoration: none;
   font-weight: bold;
